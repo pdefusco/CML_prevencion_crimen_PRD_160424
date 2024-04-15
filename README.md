@@ -1,4 +1,4 @@
-# CML Prevencion Crimen PRD 16/04/24
+# CML Prevención Crimen PRD 16/04/24
 
 Esta es la segunda parte del MLOps HOL (Hands-On Lab). La primera parte está disponible en el siguiente enlace: https://github.com/pdefusco/cml_mlops_hol_120424
 
