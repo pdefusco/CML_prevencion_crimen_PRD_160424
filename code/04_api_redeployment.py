@@ -181,7 +181,7 @@ class ModelDeployment():
 
 projectId = os.environ['CDSW_PROJECT_ID']
 username = os.environ["PROJECT_OWNER"]
-modelName = "FraudCLF-" + username + "-fromAPI"
+modelName = "CrimenCLF-" + username
 
 deployment = ModelDeployment(projectId, username)
 

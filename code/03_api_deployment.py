@@ -182,7 +182,7 @@ class ModelDeployment():
 projectId = os.environ['CDSW_PROJECT_ID']
 username = os.environ["PROJECT_OWNER"]
 sessionId = secrets.token_hex(nbytes=4)
-modelName = "FraudCLF-" + username + "-fromAPI"
+modelName = "CrimenCLF-" + username
 
 deployment = ModelDeployment(projectId, username)
 
